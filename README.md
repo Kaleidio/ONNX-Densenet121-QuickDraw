@@ -34,7 +34,7 @@ The code was developed with the following configuration:
 * keras 2.2.4
 * pandas 0.23.4
 * matplotlib 2.2.2
-* tensorflow 1.7
+* tensorflow 2.18
 
 Other configuration will reasonably work
 
